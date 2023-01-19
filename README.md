@@ -23,7 +23,7 @@ I have some experience working in project including create Website (frontend & b
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="mfaisalh12" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/688941069668581376" target="blank">
+  <a href="discordapp.com/users/688941069668581376" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="688941069668581376" height="30" width="40" />
