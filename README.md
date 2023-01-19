@@ -9,6 +9,6 @@ Reach me on my <a href="https://www.linkedin.com/in/mfaisalhidayatullah/">Linked
 <br>
 <br>
 
-![MFaisalH's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfaisalh12&show_icons=true&theme=transparent)
+![MFaisalH's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfaisalh12&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaisalh12&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaisalh12&layout=compact&theme=highcontrast)
