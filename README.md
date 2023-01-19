@@ -3,10 +3,7 @@ I'm a tech-enthusiastic computer engineer student with a deep interest in Web De
 I have some experience working in project including create Website (frontend & backend), APIs, and Cloud Architecture.
 
 <br>
-<br>
-### 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfaisalhidayatullah/) 
-
+Reach me on my <a href="https://www.linkedin.com/in/mfaisalhidayatullah/">LinkedIn</a>
 <br>
 <br>
 
