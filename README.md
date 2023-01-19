@@ -8,22 +8,22 @@ I have some experience working in project including create Website (frontend & b
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mfaisalhidayatullah/" target="blank">
+  <a href="https://linkedin.com/in/mfaisalhidayatullah/" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="mfaisalhidayatullah" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mfaisalhidayatullah22" target="blank">
+  <a href="https://instagram.com/mfaisalhidayatullah22" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="mfaisalhidayatullah22" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/mfaisalh12" target="blank">
+  <a href="https://www.hackerrank.com/mfaisalh12" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="mfaisalh12" height="30" width="40" />
   </a>
-  <a href="discordapp.com/users/688941069668581376" target="blank">
+  <a href="https://discordapp.com/users/688941069668581376" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="688941069668581376" height="30" width="40" />
